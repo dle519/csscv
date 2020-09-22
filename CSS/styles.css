@@ -80,6 +80,7 @@ hr {
   text-align: left;
   line-height: 2;
 }
+
 .code-image {
   width: 25%;
   float: left;
@@ -100,4 +101,14 @@ hr {
 .cp {
   font-size: 0.75rem;
   padding: 20px 0;
+}
+.weblink {
+  font-size: large;
+  font-weight: bold;
+  color: #66bfbf;
+  margin: 10px;
+}
+
+.weblink:hover {
+  color: teal;
 }
